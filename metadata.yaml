@@ -1,0 +1,36 @@
+_repo: Ways-of-Nature_30249
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '2009-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal intelligence'
+- !lcc 'QH'
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'QL'
+- !lcsh 'Animal behavior'
+tableOfContents: Ways of nature -- Bird-songs -- Nature with closed doors -- The wit
+  of a duck -- Factors in animal life -- Animal communication -- Devious paths --
+  What do animals know? -- Do animals think and reflect? -- A pinch of salt -- The
+  literary treatment of nature -- A beaver's reason -- Reading the book of nature
+  -- Gathered by the way.
+title: Ways of Nature
+url: http://www.gutenberg.org/ebooks/30249
